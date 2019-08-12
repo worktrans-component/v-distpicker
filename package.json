@@ -1,7 +1,7 @@
 {
   "name": "@dingshaoxiong/v-distpicker",
   "description": "A flexible, highly available district selector for picking provinces, cities and districts of China.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "dingshaxiong",
   "license": "MIT",
   "repository": "worktrans-component/v-distpicker",
